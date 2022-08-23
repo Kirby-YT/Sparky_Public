@@ -40,8 +40,10 @@ Gracias por usar el código público. Si tienes dudas, únete al servidor de sop
 1. Introducir el token en un archivo `.env`
 2. Introducir el prefix en un archivo `.env`
 3. Introducir la URL de MogoDB en un archivo `.env`
-4. Instala los paquetes del Bot usando `npm i` en la consola
-5. Inicia el Bot usando: `node index.js` en la consola
+4. Introducir el ID del dueño del Bot en un archivo `.env`
+5. Introducir el color del Embed en un archivo `.env`
+6. Instala los paquetes del Bot usando `npm i` en la consola
+7. Inicia el Bot usando: `node index.js` en la consola
 
 <p align="center">
 <br>
